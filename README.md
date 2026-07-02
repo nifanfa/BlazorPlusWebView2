@@ -1,7 +1,7 @@
 # Install Microsoft.Web.WebView2 from nuget then put Desktopize.cs to your ASP.NET Core Blazor project
 <img width="480" height="196" alt="QQ_1782975657405" src="https://github.com/user-attachments/assets/9baacaae-99c7-405a-9638-6d6702b29063" />
 
-# Fuck WinForm WPF MAUI WinUI3 MFC GTK QT, ASP.NET Core Blazor + WebView2 is the best.  
+### Fuck WinForm WPF MAUI WinUI3 MFC GTK QT, ASP.NET Core Blazor + WebView2 is the best.  
 DO NOT use WinForm or WPF to create WebView2 because once you use netx.x-windows, blazor environment is fucked.  
 If you never tried ASP.NET Core Blazor, you should give it a try, C# can replace javascript in a lot of cases! HTML always wins.  
 ### Tired of searching for UI libraries
